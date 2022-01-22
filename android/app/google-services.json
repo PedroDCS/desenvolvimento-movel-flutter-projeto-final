@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058183453104",
+    "project_id": "fluxo-45312",
+    "storage_bucket": "fluxo-45312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058183453104:android:8eef4c6e91582cc8a9de75",
+        "android_client_info": {
+          "package_name": "com.ifmg.fluxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058183453104-ssg2c3f3rhd2d7t37fmdaes3u85u0eil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTNdrHDrgChRS61450Ao7YfS_hetrhFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058183453104-ssg2c3f3rhd2d7t37fmdaes3u85u0eil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
